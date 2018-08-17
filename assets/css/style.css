@@ -225,3 +225,8 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+.nav-link {
+  display: block;
+  padding: 0;
+}
